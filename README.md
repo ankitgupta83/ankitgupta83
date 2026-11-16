@@ -1,90 +1,72 @@
-# CoSAIL
-### Computational Science & Artificial Intelligence Laboratory
-**Indian Institute of Technology Hyderabad (IIT Hyderabad)**
+# CoSAIL: Computational Science & Artificial Intelligence Laboratory
 
-*Advancing Computational Science and Artificial Intelligence through Mathematical Foundations and Computational Innovation.*
+**Department of Artificial Intelligence, Indian Institute of Technology Hyderabad**
 
----
+CoSAIL is a research laboratory in the [Department of Artificial Intelligence](https://ai.iith.ac.in/) at the [Indian Institute of Technology Hyderabad](https://www.iith.ac.in/), led by **Dr. Ankit Gupta**, Associate Professor.
 
-## About CoSAIL
-
-**CoSAIL (Computational Science & Artificial Intelligence Laboratory)** is a research laboratory at the Indian Institute of Technology Hyderabad (IIT Hyderabad), led by **Prof. Ankit Gupta (Principal Investigator)**.
-
-The laboratory aims to advance research at the intersection of computational science, applied mathematics, and artificial intelligence. Its overarching vision is to develop mathematical, computational, and data-driven approaches to understand complex systems, address challenging scientific problems, and advance intelligent computational methodologies.
-
-CoSAIL seeks to foster an interdisciplinary research environment that brings together mathematical theory, computational methods, and artificial intelligence, with an emphasis on scientific rigour, methodological innovation, and impactful research.
+The laboratory works at the intersection of **machine learning, stochastic dynamical systems, probability theory, and scientific computing**. Its goal is to develop mathematically principled computational and AI methods for the simulation, analysis, inference, and control of complex stochastic systems.
 
 ## Research Vision
 
-The central vision of CoSAIL is to bridge the gap between mathematical foundations and computational intelligence.
+CoSAIL is founded on the premise that machine learning and mathematical modelling should complement one another. By building the mathematical structure of stochastic systems into learning algorithms, the laboratory seeks methods that are more efficient, interpretable, and reliable, and that generalise better.
 
-The laboratory aims to explore fundamental questions and develop innovative methodologies that contribute to the understanding, modelling, analysis, and computational investigation of complex systems.
+The research programme is centred on **CoSAIL-Markov**, a GPU-accelerated computational framework for learning and analysing stochastic Markov dynamics. It is intended as the methodological foundation for work in:
 
-Through interdisciplinary research, CoSAIL aspires to contribute to the evolving landscape of computational science and artificial intelligence.
+- Synthetic biology
+- Phylodynamics
+- Partial differential equations
+- Open quantum systems
+- Computational finance
+- Generative AI
 
-## Research Interests
-
-CoSAIL's research interests span the broader landscape of computational science, applied mathematics, and artificial intelligence, including:
-
-- **Computational Mathematics:** Mathematical modelling, numerical methods, and computational approaches to scientific problems.
-- **Stochastic Systems:** Mathematical analysis, modelling, and simulation of stochastic and probabilistic systems.
-- **Artificial Intelligence:** Development and application of intelligent computational methodologies.
-- **Scientific Computing:** Computational frameworks and algorithms for investigating complex scientific systems.
-- **Dynamical Systems:** Mathematical and computational approaches to understanding the behaviour and evolution of complex systems.
-
-*Research themes and specific focus areas will continue to evolve with the laboratory's research activities.*
+Over time, the laboratory will bring together foundational methodology, computational tools, and interdisciplinary scientific applications.
 
 ## Principal Investigator
 
-**Prof. Ankit Gupta**  
-Principal Investigator, CoSAIL  
+**Dr. Ankit Gupta**
+Associate Professor, Department of Artificial Intelligence
 Indian Institute of Technology Hyderabad
 
 ## Research and Academic Activities
 
-CoSAIL aims to build an active research environment through:
+- Fundamental and interdisciplinary research
+- Development of mathematical and computational methodologies
+- Publication in leading scientific journals and conferences
+- Open-source computational tools and research software
+- Collaboration with academic institutions and research organisations
+- Mentoring and training of the next generation of researchers
 
-- Fundamental and interdisciplinary research.
-- Development of mathematical and computational methodologies.
-- Publication of research findings in leading scientific journals and conferences.
-- Development of open-source computational tools and research software.
-- Collaboration with academic institutions and research organisations.
-- Mentoring and training the next generation of researchers.
+## About This Repository
 
-## This Repository
-
-This repository hosts the source code and content for the official CoSAIL website.
-
-It serves as a central platform for communicating the laboratory's research identity, academic activities, publications, projects, and opportunities.
+This repository hosts the source code and content of the official CoSAIL website, which communicates the laboratory's research identity, activities, publications, projects, and opportunities.
 
 The website will progressively include:
 
-- Laboratory overview and research vision.
-- Principal Investigator and research team profiles.
-- Research themes and ongoing projects.
-- Publications and academic contributions.
-- Software, computational tools, and open-source resources.
-- Research opportunities and collaboration information.
-- News, announcements, and academic activities.
+- Laboratory overview and research vision
+- Profiles of the Principal Investigator and research team
+- Research themes and ongoing projects
+- Publications
+- Software and open-source resources
+- Research opportunities and collaboration information
+- News and announcements
 
-## Website
-
-The CoSAIL website is hosted using **GitHub Pages**.
-
-**Institution:** [Indian Institute of Technology Hyderabad](https://www.iith.ac.in/)
-
-**Website:** To be announced.
+The site is hosted with **GitHub Pages**.
 
 ## Collaboration and Opportunities
 
-CoSAIL welcomes opportunities for academic interaction, interdisciplinary research, and scientific collaboration.
+CoSAIL welcomes academic interaction, interdisciplinary research, and scientific collaboration. Information on research opportunities, prospective students, and collaborations will be posted on the laboratory website.
 
-Further information regarding research opportunities, prospective students, and collaborations will be made available through the laboratory website.
+## Contact
 
-## Acknowledgement
+For research enquiries, academic interactions, and potential collaborations:
 
-CoSAIL is based at the Indian Institute of Technology Hyderabad (IIT Hyderabad).
+**CoSAIL: Computational Science & Artificial Intelligence Laboratory**
+Department of Artificial Intelligence
+Indian Institute of Technology Hyderabad
+Kandi, Sangareddy, Telangana 502284, India
+
+Email: [ankit.gupta@ai.iith.ac.in](mailto:ankit.gupta@ai.iith.ac.in)
 
 ---
 
-*CoSAIL — Computational Science & Artificial Intelligence Laboratory | IIT Hyderabad*
+*CoSAIL | Department of Artificial Intelligence, IIT Hyderabad*
